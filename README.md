@@ -1,5 +1,4 @@
-# Stable-coin-
-USDC coin solution for local shop in Peshawar 
+
 # Stable-coin-
 USDC payment solution for small shops in Peshawar
 
